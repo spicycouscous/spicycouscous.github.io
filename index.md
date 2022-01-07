@@ -23,4 +23,4 @@ The following sequence of images details my process for this project from concep
 
 ![Image](sentrydemo0.gif)
 ### The Sentry Gun in action.
-The Sentry Gun uses a mounted camera (visible on the center piece) and OpenCV for facial recognition. While the finished product lacks vertical head movement and onboard processing from the original concept, it is still a Sentry Gun and accomplishes the core goals I had since the beginning.
+The Sentry Gun uses a mounted camera (visible on the center piece) and OpenCV for facial recognition. It uses a rotational servo for head movement and an Arduino microcontroller to control the electronics. While the finished product lacks vertical head movement and onboard processing (largely due to processing limitations of maker-oriented SBCs at the time) from the original concept, it is still a Sentry Gun and accomplishes the core goals I had since the beginning: taking aim at human faces and blasting yellow photons towards its target.
