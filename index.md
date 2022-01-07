@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Hello! This is a page as a collection of my major projects.
+### V.C.
 
-You can use the [editor on GitHub](https://github.com/spicycouscous/spicycouscous.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### You'll find all of my open source contributions and recent projects at my [school GitHub account.](https://github.com/zielo-hue)
+Some highlights:
+* [A collaborative, open source project](https://github.com/hitomi-team/sukima) to make large language models and its full set of features available to end users who can't run such models due to consumer hardware constraints.
+* [A chatbot](https://github.com/zielo-hue/JazzMock) leveraging GPT-2 for conversational tasks.
+* [Novation Launchpad MIDI controller software](https://github.com/zielo-hue/macro-launchpad) which uses a MIDI controller as a user interface for triggering scripts.
+There are quite a few more than the list above on the GitHub account page.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Maker Projects
+### Sentry Gun from Team Fortress 2
+The following sequence of images details my process for this project from concept, to design, to production.
+![Image](sentryconcept0.png)
+* My initial sketch of what I wanted to build.
 
-### Markdown
+![Image](slide0.png)
+![Image](slide1.png)
+* Using TinkerCAD and Fusion360 to model spaces for electronics and mechanical joints
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image](sentrywip.jpg)
+* In construction... A power supply is visible in the head component.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/spicycouscous/spicycouscous.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Image](sentrydemo0.gif)
+### The Sentry Gun in action.
+The Sentry Gun uses a mounted camera (visible on the center piece) and OpenCV for facial recognition. While the finished product lacks vertical head movement and onboard processing from the original concept, it is still a Sentry Gun and accomplishes the core goals I had since the beginning.
